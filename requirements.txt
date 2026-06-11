@@ -1,0 +1,10 @@
+fastapi==0.xx.x
+uvicorn==0.xx.x
+sqlalchemy==2.xx.x
+pydantic==2.xx.x
+python-jose==3.x.x
+passlib==1.x.x
+bcrypt==4.x.x
+python-multipart
+pytest
+httpx
